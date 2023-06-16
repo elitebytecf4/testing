@@ -1,0 +1,91 @@
+cd /
+ll
+ls
+cd Volumes/
+ls
+cd Seagate\ Backup\ Plus\ Drive/
+ls
+cd Oli\ samples/
+ls -l
+sudo chmod a+r -R Oli\ samples/
+ll
+ls 
+chmod -R a+x Oli\ samples/
+ 
+node index.js
+node index.js
+node index.js
+js course
+node index.js
+node -v
+sudo npm install live-server -g
+live-server
+node  -v
+sudo npm install live-server -g
+node -v
+npm install live-server -g
+live-server
+live-server
+live-server
+live-server
+live-server
+live-server
+live-server
+live-server
+/Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+/Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+/bin/bash ; exit;
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash ; exit;
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash ; exit;
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash ; exit;
+$/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+📋
+/bin/bash ; exit;
+/Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+diskutil list
+diskutil list
+/Applications/IntelliJ\IDEA.app/Contents/MacOS/idea
+/Applications/IntelliJ\IDEA\CE.app/Contents/MacOS/i  
+/Applications/IntelliJ\IDEA\CE.app/Contents/MacOS/idea
+/Applications/IntelliJ\ IDEA\ CE.app/Contents/MacOS/idea
+/Applications/Docker.app/Contents/MacOS/Docker ; exit;
+docker pull mcr.microsoft.com/azure-sql-edge
+docker pull mcr.microsoft.com/azure-sql-edge
+docker pull mcr.microsoft.com/azure-sql-edge
+/Applications/Docker.app/Contents/MacOS/Docker ; exit;
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+sudo docker pull mcr.microsoft.com/mssql/server:2022-latest
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+docker command [options]
+docker ps –a
+docker start [options] container_id
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+docker run -d --name example_sql_server -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Strong.Pwd-123' -p 1433:1433 mcr.microsoft.com/mssql/server:2019-latest
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+δφ
+γδφγδφγδφγδφγδφγδ
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+bvbhfghfghfghfghgfhfghfghgfhfghfghf
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+gffdgdfgdfghgfgfhfghfghfghfggfdg
+gdfg
+`chsh -s /bin/zsh`
+sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+$ bash --version
+bass --version
+bash --version
+brew install bash
+which -a bash
+ /usr/local/bin/bash --version
+bash --version
+sudo vim /etc/shells
+chsh -s /usr/local/bin/bash
+chsh -s /usr/local/bin/bash
+echo $BASH_VERSION
+ chsh -s /usr/local/bin/bash
+bash --version

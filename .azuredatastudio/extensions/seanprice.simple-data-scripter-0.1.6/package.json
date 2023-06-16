@@ -1,0 +1,68 @@
+{
+	"name": "simple-data-scripter",
+	"displayName": "Simple Data Scripter",
+	"description": "Creates insert scripts for a given table",
+	"version": "0.1.6",
+	"publisher": "seanprice",
+	"repository": "https://github.com/ecirpnaes/SimpleDataScripter.git",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.28.0",
+		"azdata": "*"
+	},
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"Script",
+		"Insert",
+		"SQL"
+	],
+	"main": "./out/extension",
+	"activationEvents": [
+		"onCommand:extension.scriptTableData"
+	],
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.scriptTableData",
+				"title": "Script Table Data"
+			}
+		],
+		"menus": {
+			"objectExplorer/item/context": [
+				{
+					"command": "extension.scriptTableData",
+					"when": "connectionProvider == MSSQL && nodeType == Table || nodeType == View",
+					"group": "NONE"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install && node ./node_modules/azdata/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test",
+		"proposedapi": "node installTypings.js"
+	},
+	"devDependencies": {
+		"typescript": "^2.6.1",
+		"vscode": "^1.1.6",
+		"azdata": "1.0.0",
+		"tslint": "^5.8.0",
+		"@types/node": "^7.0.43",
+		"@types/mocha": "^2.2.42"
+	},
+	"dependencies": {
+		"-": "0.0.1",
+		"diff": "^4.0.1",
+		"g": "^2.0.1",
+		"minimist": "^1.2.5",
+		"vsce": "^1.87.0"
+	},
+	"__metadata": {
+		"installedTimestamp": 1680984869427
+	}
+}

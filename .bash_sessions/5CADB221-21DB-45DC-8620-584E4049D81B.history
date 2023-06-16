@@ -1,0 +1,36 @@
+cd /
+ll
+ls
+cd Volumes/
+ls
+cd Seagate\ Backup\ Plus\ Drive/
+ls
+cd Oli\ samples/
+ls -l
+sudo chmod a+r -R Oli\ samples/
+ll
+ls 
+chmod -R a+x Oli\ samples/
+ 
+node index.js
+node index.js
+node index.js
+js course
+node index.js
+node -v
+sudo npm install live-server -g
+live-server
+node  -v
+sudo npm install live-server -g
+node -v
+npm install live-server -g
+live-server
+live-server
+live-server
+live-server
+live-server
+live-server
+live-server
+live-server
+/Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+/Applications/Python\ 3.9/Install\ Certificates.command ; exit;
