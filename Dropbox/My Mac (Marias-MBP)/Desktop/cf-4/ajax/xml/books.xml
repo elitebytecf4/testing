@@ -1,0 +1,14 @@
+<library>
+<book>
+<title>Java</title>
+<author>Androutsos</author>
+</book>
+<book>
+<title>Databases</title>
+<author>Kapetis</author>
+</book>
+<book>
+<title>Networking</title>
+<author>Fragoudakis</author>
+</book>
+</library>
